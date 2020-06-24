@@ -18,6 +18,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## ✌🏻 Resultado
 <p align="center">
-<img alt="tela"  width="900px" src="https://raw.githubusercontent.com/rafaoliveir/eco/master/public/imagens/img.png?token=ANC5AZPUVHBEGWOY5LCBUV266PKKG"></p>
+<img width="900px" src="https://raw.githubusercontent.com/rafaoliveir/eco/master/public/imagens/img.png?token=ANC5AZLURLKARHJMVJKR24266POTC"></p>
 
 <p align="center">Projeto desenvolvido durante a Next Level Week organizada pela Rocketseat 🚀</p>
