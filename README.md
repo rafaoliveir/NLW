@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="200px" src="https://raw.githubusercontent.com/rafaoliveir/eco/ff05b0bb7c707b8135ff575ffa020b774cf1377a/public/imagens/logo.svg?token=ANC5AZOQDDC7PPH57S4JVRK66PKSM">
+    <img width="200px" src="https://raw.githubusercontent.com/rafaoliveir/eco/ff9d727c4728e1533672674796f4f767eddcab96/public/imagens/logo.svg?token=ANC5AZKI7WUARXYZ7MGIHFK66POPI">
    
 
 ## ♻️ Sobre o projeto
