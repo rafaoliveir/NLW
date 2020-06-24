@@ -1,0 +1,72 @@
+/*modelo de caixa*/
+
+#principal header {
+  margin-top: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#principal header a {
+  display: flex;
+  color: #322153;
+  font-weight: 700;
+}
+#principal header a span {
+  margin-right: 16px;
+  display: flex;
+  background-image: url(../imagens/log-in.svg);
+  width: 20px;
+  height: 20px;
+}
+#principal conteudo {
+  max-width: 560px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#principal conteudo h1 {
+  font-size: 54px;
+}
+
+#principal conteudo p {
+  font-size: 24px;
+  line-height: 38px;
+  margin-top: 24px;
+}
+#principal conteudo a {
+  width: 100%;
+  max-width: 360px;
+  height: 72px;
+  background: var(--primary-color);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+  transition: 500ms;
+  color: white;
+}
+#principal conteudo a:hover {
+  background-color: #2fb85e;
+}
+#principal conteudo a span {
+  width: 72px;
+  height: 72px;
+  background-color: #0ce057;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#principal conteudo a span::after {
+  content: '';
+  background-image: url(../imagens/search.svg);
+  width: 20px;
+  height: 20px;
+}
+
+#principal conteudo a strong {
+  flex: 1;
+  text-align: center;
+}
