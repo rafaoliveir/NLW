@@ -16,7 +16,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - SQLite3
 - Nunjucks
 
-## ✌🏻 Resultado
+## ✅ Resultado
 <p align="center">
 <img width="900px" src="/public/imagens/img.png"></p>
 
