@@ -20,4 +20,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <p align="center">
 <img width="900px" src="/public/imagens/img.png"></p>
 
-<p>Projeto desenvolvido durante a Next Level Week organizada pela Rocketseat 🚀</p>
+<p>Projeto desenvolvido durante a Next Level Week organizada pela RocketSeat 🚀</p>
