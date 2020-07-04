@@ -9,6 +9,7 @@ O Ecoleta é uma aplicação web destinada a conectar pessoas e entidades com a 
 
 ## 💻 Tecnologias utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
+
 - HTML
 - CSS
 - Javascript
